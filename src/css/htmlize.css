@@ -1,10 +1,6 @@
 /* Generated from (org-html-htmlize-generate-css) with minimum
 packages loaded and default light theme */
 
-body {
-    color: #000000;
-    background-color: #ffffff;
-}
 .org-alert-high {
     /* alert-high-face */
     color: #ff8c00;
@@ -2377,14 +2373,4 @@ body {
     color: #666666;
 }
 .org-yas--field-debug {
-}
-
-a {
-    color: inherit;
-    background-color: inherit;
-    font: inherit;
-    text-decoration: inherit;
-}
-a:hover {
-    text-decoration: underline;
 }
